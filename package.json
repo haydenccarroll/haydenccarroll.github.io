@@ -13,10 +13,7 @@
     "precommit": "eslint src",
     "prod": "NODE_ENV=production node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/haydenccarroll/haydenccarroll.github.io.git"
-  },
+
   "keywords": [
     "es6",
     "es7",
