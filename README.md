@@ -1,1 +1,2 @@
-# my personal website
+# Hayden Carroll React Portfolio Application
+
